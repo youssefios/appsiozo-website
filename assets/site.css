@@ -25,7 +25,7 @@ section.alt{background:var(--card);border-block:1px solid var(--line)}
 .hero h1,.hero h2{color:#fff}
 .hero .lead{color:#C9CDE6}
 .hero .wrap{display:grid;grid-template-columns:1.1fr .9fr;gap:48px;align-items:center;position:relative}
-.hero .art{justify-self:end;width:100%;height:auto;max-width:380px}
+.hero .art{justify-self:end;width:100%;height:auto;max-width:360px;border-radius:22%;box-shadow:0 24px 60px rgba(0,0,0,.45)}
 .hero .glyph{position:absolute;opacity:.06;pointer-events:none}
 .cta{display:flex;gap:12px;flex-wrap:wrap;margin-top:30px}
 .btn{display:inline-flex;align-items:center;gap:8px;font-weight:800;font-size:16px;padding:14px 20px;border-radius:12px;text-decoration:none;border:2px solid transparent;line-height:1}

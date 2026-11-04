@@ -1,9 +1,2 @@
-<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" width="512" height="512">
-  <defs>
-    <linearGradient id="warm" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#FFC84A"/><stop offset="1" stop-color="#FF8A4A"/></linearGradient>
-    <mask id="cut"><rect width="512" height="512" fill="#fff"/><polygon points="222,168 222,258 300,213" fill="#000" stroke="#000" stroke-width="18" stroke-linejoin="round"/><polygon points="166,432 346,432 256,306" fill="#000" stroke="#000" stroke-width="18" stroke-linejoin="round"/></mask>
-  </defs>
-  <rect width="512" height="512" rx="112" fill="#141A3A"/>
-  <g mask="url(#cut)"><polygon points="256,86 450,432 62,432" fill="#fff" stroke="#fff" stroke-width="28" stroke-linejoin="round"/></g>
-  <polygon points="222,168 222,258 300,213" fill="url(#warm)"/>
-</svg>
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="290 308 188 178" width="188" height="178"><path d="M332 318 H 436 A 32 32 0 0 1 468 350 V 408 A 32 32 0 0 1 436 440 H 392 L 356 476 L 362 440 H 332 A 32 32 0 0 1 300 408 V 350 A 32 32 0 0 1 332 318 Z" fill="#F2B134" stroke="#1C2240" stroke-width="12" stroke-linejoin="round"/>
+<polygon points="366,352 366,406 416,379" fill="#1C2240" stroke="#1C2240" stroke-width="10" stroke-linejoin="round"/></svg>
