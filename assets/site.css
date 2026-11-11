@@ -76,3 +76,7 @@ footer p{margin:4px 0;max-width:80ch}
   .app,.apphead{grid-template-columns:1fr}
   section{padding-block:48px}
 }
+.btn.dark{background:var(--navy);color:#fff}
+.btn.dark:hover{background:var(--navy-2)}
+.get{display:flex;flex-wrap:wrap;gap:12px;align-items:center;margin-top:16px}
+.get .soon{margin-top:0}
